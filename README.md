@@ -139,7 +139,7 @@ Alternatively, open the project in IntelliJ IDEA, allow Maven dependencies to lo
 
 Once the application starts successfully, open your browser and visit:
 
-**http://localhost:8080**
+**http://localhost:8081**
 
 If a different port is configured in `application.properties`, use that port instead.
 
